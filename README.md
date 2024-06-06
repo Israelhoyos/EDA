@@ -65,6 +65,30 @@ El EDA (Exploratory Data Analysis, o Análisis Exploratorio de Datos) es una fas
 - Gráficos de caja
 - Análisis de puntos extremos en gráficos de dispersión
 
+## Beneficios del EDA
+
+### Mejor Comprensión de los Datos:
+
+- Ayuda a entender las características y estructuras subyacentes de los datos.
+
+### Preparación para Modelado:
+
+- Identifica y maneja datos faltantes, outliers y otros problemas que podrían afectar el modelado.
+
+### Generación de Hipótesis:
+
+- Proporciona una base para generar hipótesis y preguntas de investigación.
+
+### Detección de Errores:
+
+- Ayuda a identificar errores y anomalías en los datos que podrían pasar desapercibidos.
+
+### Comunicación de Resultados:
+
+- Las visualizaciones y resúmenes estadísticos facilitan la comunicación de hallazgos a audiencias no técnicas.
+
+
+En resumen, el EDA es una etapa fundamental en el análisis de datos que proporciona una comprensión profunda del conjunto de datos y prepara el terreno para el análisis más avanzado y la construcción de modelos predictivos.
 
 
 
