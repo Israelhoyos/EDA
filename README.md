@@ -38,6 +38,34 @@ El EDA (Exploratory Data Analysis, o Análisis Exploratorio de Datos) es una fas
 - Utilizar tablas y gráficos para resumir la información de manera comprensible.
 
 
+## Herramientas y Técnicas Comunes en el EDA
+
+### Estadísticas Descriptivas:
+
+- Media, mediana, moda
+- Desviación estándar, varianza
+- Percentiles, cuartiles
+
+### Visualización de Datos:
+
+- Histogramas
+- Diagramas de caja (box plots)
+- Gráficos de dispersión
+- Diagramas de barras
+- Gráficos de líneas
+- Mapas de calor
+
+### Manejo de Datos Faltantes:
+
+- Imputación (rellenar valores faltantes)
+- Eliminación de registros o variables con datos faltantes
+
+### Detección de Outliers:
+
+- Gráficos de caja
+- Análisis de puntos extremos en gráficos de dispersión
+
+
 
 
 
